@@ -1,0 +1,17 @@
+published_order	pathway_id	published_label
+1	GO:0032990	cell part morphogenesis
+2	GO:0048589	developmental growth
+3	M5893	HALLMARK_MITOTIC_SPINDLE
+4	GO:0001216	DNA-binding transcription activator
+5	GO:0002521	leukocyte differentiation
+6	GO:0004674	protein serine/threonine kinase activity
+7	GO:0006914	autophagy
+8	GO:0016491	oxidoreductase activity
+9	M5924	HALLMARK_MTORC1_SIGNALING
+10	GO:0022613	ribonucleoprotein complex biogenesis
+11	GO:0006091	generation of precursor metabolites and energy
+12	GO:0005759	mitochondrial matrix
+13	M5928	HALLMARK_MYC_TARGETS_V2
+14	GO:0005740	mitochondrial envelope
+15	M5936	HALLMARK_OXIDATIVE_PHOSPHORYLATION
+16	R-HSA-72312	rRNA processing

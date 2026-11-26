@@ -1,0 +1,129 @@
+# ============================================================
+# R / RStudio temporary state
+# ============================================================
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# R package/library/cache directories
+**/renv/library/
+**/renv/staging/
+.packrat/
+cache/
+tmp/
+temp/
+multiome/ArchR_CH/
+
+# Large sequencing / single-cell data
+
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+*.bam
+*.bai
+*.cram
+*.crai
+
+*.mtx
+*.mtx.gz
+
+*.h5
+*.hdf5
+*.h5ad
+
+*.arrow
+
+# Fragment files
+*fragments*.tsv
+*fragments*.tsv.gz
+
+# Large serialized R objects
+
+*.rds
+*.RDS
+*.rda
+*.RData
+
+
+# figures
+
+**/[Ff]igure*/
+
+# Existing project-specific data directories
+/DNA_analysis/data/
+/RNA_analysis/data/
+/RNA_clone_analysis/data/
+/multiome/data/
+/human_ch/data/
+/TF_overexpression/data/
+/Association_analysis/data/
+/clones/data/
+/indels_calling/data/
+/MYC_analysis/data/
+/inflammatory_HSCs/data/
+human_ch/Matrix_1.6-4.tar.gz
+inflammatory_HSCs/Zeng2026_HSCiM/Zeng2026_Supplementary_Tables.xlsx
+
+
+# Common graphics generated from analysis
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+
+# Miscellaneous
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
+*.bak
+*~
+
+# CH reviewed code release: keep scientific outputs and private staging out of Git.
+# These rules do not remove already-tracked files.
+/publication/release_staging/
+/publication/submission/
+/publication/audits/
+/publication/development_archive/
+/publication/validation/github_selection_review/
+/publication/validation/github_staging/
+**/publication/development_archive/
+**/publication/intermediate/
+**/publication/source_data/
+**/publication/validation/.*/
+**/publication/production_run/
+**/publication/production_clean/
+/*.zip
+/*.tar.gz
+
+# Lean release: generated reports stay local. Reviewed seed inputs are added explicitly.
+**/publication/validation/*
+/publication/validation/github_staging_lean/
+
+# Internal review records are retained locally, not in the public release.
+/RNA_analysis/reproducibility/
+/multiome/reproducibility/
+/publication/manifests/
+/manifests/build_inventory.py
+/manifests/manifest.tsv.numbers
+/publication/tools/final_release_update.py
+/publication/tools/audit_CH_release_partition_v2.py
+/audit_CH_release_partition.py
+/**/publication/README.md
+/**/publication/README_Fig*.md
+/**/publication/METHODS_AND_PROVENANCE.md
+/**/publication/FIGURE_REPRODUCTION_LEDGER.md
+/**/publication/*figure_reproduction_ledger.md
+/**/publication/issues/
+/**/publication/validation/
+/RNA_analysis/publication/VALIDATION_NOTES_Fig3A_B_S6AB.tsv
+/multiome/publication/manifest.tsv

@@ -1,0 +1,32 @@
+panel	genotype	published_order_top_to_bottom	pathway_id	published_label	published_direction
+Fig3D	DNMT3A	1	R-HSA-202424	Downstream TCR signaling	positive
+Fig3D	DNMT3A	2	GO:0042611	MHC protein complex	positive
+Fig3D	DNMT3A	3	R-HSA-1236974	ER-Phagosome pathway	positive
+Fig3D	DNMT3A	4	M5913	HALLMARK_INTERFERON_GAMMA_RESPONSE	positive
+Fig3D	DNMT3A	5	GO:0010008	endosome membrane	positive
+Fig3D	DNMT3A	6	M5890	HALLMARK_TNFA_SIGNALING_VIA_NFKB	positive
+Fig3D	DNMT3A	7	GO:0098803	respiratory chain complex	positive
+Fig3D	DNMT3A	8	R-HSA-6798695	Neutrophil degranulation	positive
+Fig3D	DNMT3A	9	GO:0071855	neuropeptide receptor binding	positive
+Fig3D	DNMT3A	10	R-HSA-8868773	rRNA processing in the nucleus and cytosol	positive
+Fig3D	DNMT3A	11	GO:0019228	neuronal action potential	negative
+Fig3D	DNMT3A	12	M5901	HALLMARK_G2M_CHECKPOINT	negative
+Fig3D	DNMT3A	13	R-HSA-6785470	tRNA processing in the mitochondrion	negative
+Fig3E	TET2	1	GO:1903131	mononuclear cell differentiation	positive
+Fig3E	TET2	2	GO:0048598	embryonic morphogenesis	positive
+Fig3E	TET2	3	GO:0003013	circulatory system process	positive
+Fig3E	TET2	4	GO:0048511	rhythmic process	positive
+Fig3E	TET2	5	R-HSA-913531	Interferon Signaling	positive
+Fig3E	TET2	6	GO:0048638	regulation of developmental growth	positive
+Fig3E	TET2	7	M5947	HALLMARK_IL2_STAT5_SIGNALING	positive
+Fig3E	TET2	8	R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	positive
+Fig3E	TET2	9	GO:0002764	immune response-regulating signaling pathway	positive
+Fig3E	TET2	10	GO:0044843	cell cycle G1/S phase transition	positive
+Fig3E	TET2	11	GO:0005681	spliceosomal complex	negative
+Fig3E	TET2	12	M5935	HALLMARK_FATTY_ACID_METABOLISM	negative
+Fig3E	TET2	13	R-HSA-69620	Cell Cycle Checkpoints	negative
+Fig3E	TET2	14	GO:0042254	ribosome biogenesis	negative
+Fig3E	TET2	15	GO:0005759	mitochondrial matrix	negative
+Fig3E	TET2	16	R-HSA-71291	Metabolism of amino acids and derivatives	negative
+Fig3E	TET2	17	GO:0005743	mitochondrial inner membrane	negative
+Fig3E	TET2	18	R-HSA-72766	Translation	negative
